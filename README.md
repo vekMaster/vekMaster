@@ -3,7 +3,9 @@
 I'm a Js full stack developer, also I'm a musician
 
 Contact
+
 [LinkedIn](https://www.linkedin.com/in/kevin-dario-agudelo-gallego-1b1744165/)
+
 [Instagram](https://www.instagram.com/kevin.agudelogallego/)
 
 
